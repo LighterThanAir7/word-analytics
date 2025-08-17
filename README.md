@@ -1,12 +1,15 @@
-# React + Vite
+# ByteGrad - Fancy Counter
+This is my solution to the Word Analytics project from [ByteGrad](https://bytegrad.com/).
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+A lightweight word analytics app that shows word and character counts, highlights Instagram and Facebook post limits, and includes simple validation to block `<script>` tags and the `@` character for demo purposes. 
 
-Currently, two official plugins are available:
+## Screenshot
+![screenshot.avif](screenshot.avif)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Links
+- Solution URL: [Gitgub repo](https://github.com/LighterThanAir7/word-analytics)
+- Live site URL: [Word Analytics](https://lighterthanair7.github.io/word-analytics/)
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Built with
+- React + Vite
