@@ -14,7 +14,7 @@ export default function Container() {
 
   return (
     <main className="container">
-      <Textarea text={inputText} setInputText={setInputText} />
+      <Textarea inputText={inputText} setInputText={setInputText} />
       <Stats stats={stats} />
     </main>
   )
